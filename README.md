@@ -2,4 +2,4 @@
 Two Player Option
 
 ## Things to add
-*Where two players can play on-line
+* Where two players can play on-line
